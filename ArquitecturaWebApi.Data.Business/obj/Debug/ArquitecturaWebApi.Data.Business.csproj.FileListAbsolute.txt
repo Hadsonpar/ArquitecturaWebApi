@@ -1,0 +1,20 @@
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Data.Business.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Data.Business.pdb
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Data.Access.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Models.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Data.Access.pdb
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Models.pdb
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\obj\Debug\ArquitecturaWebApi.Data.Business.csprojAssemblyReference.cache
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\obj\Debug\ArquitecturaWebApi.Data.Business.csproj.CopyComplete
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\obj\Debug\ArquitecturaWebApi.Data.Business.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\obj\Debug\ArquitecturaWebApi.Data.Business.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Data.Business.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Data.Business.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Data.Access.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Models.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Data.Access.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\bin\Debug\ArquitecturaWebApi.Models.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\obj\Debug\ArquitecturaWebApi.Data.Business.csprojAssemblyReference.cache
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\obj\Debug\ArquitecturaWebApi.Data.Business.csproj.CopyComplete
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\obj\Debug\ArquitecturaWebApi.Data.Business.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi.Data.Business\obj\Debug\ArquitecturaWebApi.Data.Business.pdb

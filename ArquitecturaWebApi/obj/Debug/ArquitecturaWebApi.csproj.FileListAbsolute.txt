@@ -1,0 +1,204 @@
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.dll.config
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.pdb
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csc.exe
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csc.exe.config
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csc.rsp
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csi.exe
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csi.exe.config
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csi.rsp
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.AppContext.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Console.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.IO.Compression.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Net.Http.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Net.Sockets.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.ValueTuple.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\vbc.exe
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\vbc.exe.config
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\vbc.rsp
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\VBCSCompiler.exe
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Antlr3.Runtime.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Domain.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Models.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Newtonsoft.Json.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Net.Http.Formatting.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Helpers.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Http.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Http.WebHost.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Mvc.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Optimization.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Razor.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.Razor.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\WebGrease.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Domain.pdb
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Models.pdb
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Newtonsoft.Json.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Net.Http.Formatting.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Helpers.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Http.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Http.WebHost.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Mvc.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Optimization.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Razor.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.Razor.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Antlr3.Runtime.pdb
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Http.resources.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Razor.resources.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\obj\Debug\ArquitecturaWebApi.csprojAssemblyReference.cache
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\obj\Debug\ArquitecturaWebApi.csproj.CopyComplete
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\obj\Debug\ArquitecturaWebApi.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\obj\Debug\ArquitecturaWebApi.pdb
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Data.Business.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Data.Access.dll
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Data.Business.pdb
+C:\HADSON\DEVELOPER\BLOG\.NET CORE\WebAPI CORE\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Data.Access.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.dll.config
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csc.exe
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csc.exe.config
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csc.rsp
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csi.exe
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csi.exe.config
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\csi.rsp
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.AppContext.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Console.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Globalization.Calendars.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.IO.Compression.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Net.Http.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Net.Sockets.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.ValueTuple.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Xml.XPath.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\vbc.exe
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\vbc.exe.config
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\vbc.rsp
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\VBCSCompiler.exe
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Antlr3.Runtime.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Domain.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Models.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Newtonsoft.Json.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Net.Http.Formatting.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Helpers.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Http.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Http.WebHost.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Mvc.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Optimization.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Razor.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.Razor.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\WebGrease.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Data.Business.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Data.Access.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Domain.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Models.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Newtonsoft.Json.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Net.Http.Formatting.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Helpers.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Http.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Http.WebHost.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Mvc.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Optimization.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.Razor.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\System.Web.WebPages.Razor.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Antlr3.Runtime.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Data.Business.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\ArquitecturaWebApi.Data.Access.pdb
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Http.resources.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.Razor.resources.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\obj\Debug\ArquitecturaWebApi.csprojAssemblyReference.cache
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\obj\Debug\ArquitecturaWebApi.csproj.CopyComplete
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\obj\Debug\ArquitecturaWebApi.dll
+C:\HADSON\DEVELOPER\PROYECTOS\WebAPICore\PF_WEB_API_BIO\ArquitecturaWebApi\ArquitecturaWebApi\obj\Debug\ArquitecturaWebApi.pdb
